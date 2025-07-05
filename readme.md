@@ -171,6 +171,4 @@ Make sure the IP of the server matches what’s used in the `camera_monitor.py` 
 
 ## Robot Image
 
-Add your image in a folder named `images/` and reference it here:
-
 ![Patrol Robot 2](images/patrol_robot_2.jpg)
