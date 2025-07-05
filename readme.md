@@ -2,7 +2,7 @@
 ---
 ![Patrol Robot](images/patrol_robot.jpg)
 
-The **ROS2 Patrol Robot** is a smart autonomous ground vehicle that uses an ultrasonic sensor to detect nearby obstacles. Upon detection, it halts movement, captures an image using a Raspberry Pi Camera, and sends that image to a Flask server for logging. This project uses ROS2 for inter-process communication, an Arduino for sensor control, and an L298N motor driver for driving the motors.
+The **ROS2 Patrol Robot** is a smart patrolling ground vehicle that keeps moving in a predefined path and uses an ultrasonic sensor to detect nearby obstacles. Upon detection, it halts movement, captures an image using a Raspberry Pi Camera, and sends that image to a Flask server for logging. This project uses ROS2 for inter-process communication, an Arduino for sensor control, and an L298N motor driver for driving the motors.
 
 ---
 
