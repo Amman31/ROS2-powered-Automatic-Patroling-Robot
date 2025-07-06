@@ -6,6 +6,9 @@ The **ROS2 Patrol Robot** is a smart patrolling ground vehicle that keeps moving
 
 ---
 
+## Note
+Both the raspberry pi robot and the Machine running the Flask server need to be connected to the WIFI network.
+
 ## Features
 
 - Obstacle detection using ultrasonic sensor (HC-SR04)
