@@ -7,7 +7,7 @@ import serial
 import time
 
 THRESHOLD_CM = 40
-SERVER_URL = 'http://192.168.0.16:5000/upload-data'
+SERVER_URL = 'http://192.168.0.16:5000/upload'
 IMAGE_PATH = '/tmp/obstacle.jpg'
 
 class CameraMonitor(Node):
